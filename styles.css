@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./images/white-background-with-3d-hexagonal-pattern-design_1017-28443.webp);
+    background-size: cover;
+    overflow: hidden;
+}
+
+.img-perfil {
+    width: 160px;
+    border: 1.5px solid white;
+    border-radius: 35px;
+    position: relative;
+    left: 45px;
+    top: 120px;
+}
+
+header {
+    width: 250px;
+    height: 100vh;
+    background-color: rgb(31, 56, 77);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    position: relative;
+    text-align: center;
+    top: 150px;
+    line-height: 30px;
+}
+
+.nome {
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    left: 300px;
+    bottom: 450px;
+    line-height: 60px;
+    width: 60%;
+}
+
+span {
+   color:  rgb(31, 56, 77);
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.sobre {
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    left: 300px;
+    bottom: 400px;
+    width: 60%;
+}
+
+.sociais {
+    
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.conhecimentos, .objetivos{
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    left: 300px;
+    bottom: 450px;
+    line-height: 35px;
+    width: 60%;
+}
+
+.tech {
+    width: 20px;
+    height: 20px;
+}
+
+.font-header {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.redes {
+    position: relative;
+    left: 300px;
+    bottom: 350px;
+    width: 60%;
+}
+
